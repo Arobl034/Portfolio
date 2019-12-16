@@ -1,0 +1,30 @@
+#header {
+    background-color: #eee;
+    width: 200px;
+    height: 0px;
+}
+ol {
+    list-style-type: none;
+    border-top: 50px;
+    padding: 20;
+    overflow: hidden;
+    background-color: #eee;
+    font-size: 24px;
+}
+li {
+    float: right;
+}
+body {
+    background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+h {
+    color: #333333;
+    font-size: 28px;
+    color: red;
+
+}
