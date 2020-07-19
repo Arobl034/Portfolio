@@ -4,13 +4,13 @@ This is a basic portfolio website, built with HTML and CSS. It will provide rele
 
 ## Site Structure
 
-# Pages
+### Pages
 
 - index.html
 - contact.html
 - portfolio.html
 
-# Folders
+### Folders
 
 - assets
 - css
