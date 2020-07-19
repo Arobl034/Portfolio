@@ -6,12 +6,12 @@ This is a basic portfolio website, built with HTML and CSS. It will provide rele
 
 # Pages
 
-index.html
-contact.html
-portfolio.html
+-index.html
+-contact.html
+-portfolio.html
 
 # Folders
 
-assets
-css - Contains style.css
-images
+--assets
+-css
+-images
